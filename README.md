@@ -17,7 +17,6 @@ This is a repo contains all infomation about Just Avatar contracts.
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
 - [Usage](#usage)
-- [Deployment to a testnet](#deployment-to-a-testnet)
 - [Thank you!](#thank-you)
 
 
@@ -43,23 +42,7 @@ cd just-avatar-contract
 yarn
 ```
 
-
 # Usage
-
-Deploy:
-
-```bash
-yarn hardhat deploy
-```
-
-Mint three Nft:
-
-```bash
-yarn hardhat run scripts/mint_nft.js --network gorl
-```
-
-
-# Deployment to a testnet
 
 1. Setup environment variabltes
 
@@ -74,10 +57,16 @@ You'll want to set your `GOERLI_RPC_URL` and `PRIVATE_KEY` as environment variab
 
 Head over to [faucets.Alchemy](https://goerlifaucet.com/) and get some tesnet ETH. You should see the ETH show up in your metamask.
 
-3. Deploy
+2. Deploy
 
 ```bash
 yarn hardhat deploy --network gorl
+```
+
+3. Mint three Nft:
+
+```bash
+yarn hardhat run scripts/mint_nft.js --network gorl
 ```
 
 

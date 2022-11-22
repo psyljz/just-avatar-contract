@@ -32,7 +32,7 @@ This is a repo contains all infomation about Just Avatar contracts.
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) instead of `npm`
   - You'll know you've installed yarn right if you can run:
     - `yarn --version` and get an output like: `x.x.x`
-    - You might need to install it with `npm`
+
 
 ## Quickstart
 

@@ -10,6 +10,8 @@
 
 >  *All the avatar images come from [multiavatar](https://multiavatar.com/)  and used under it's [license](https://github.com/multiavatar/Multiavatar/blob/main/LICENSE).*
 
+You can free mint an avatart [Here](http://cherry.ljz.life)!
+
 This is a repo contains all infomation about Just Avatar contracts.
 
 - [Just Avatar](#just-avatar)
